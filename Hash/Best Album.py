@@ -44,6 +44,7 @@ def solution(genres, plays):
 if __name__ == "__main__":
     genres = ["classic", "pop", "classic", "classic", "pop"]
     plays = [500, 600, 150, 800, 2500]
+    
     output = solution(genres, plays)
     print(output)
     # expected output: [4, 1, 3, 0]
