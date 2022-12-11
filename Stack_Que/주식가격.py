@@ -1,3 +1,7 @@
+
+# https://school.programmers.co.kr/learn/courses/30/lessons/42584 
+# 홈페이지에서 덜 풀린 것으로 되어있으니 이해하고 다시 풀어보기 
+
 def solution(prices):
     # answer = 몇초 후 가격이 떨어지는지 저장하는 배열
     answer = [len(prices)-i-1 for i in range(len(prices))]

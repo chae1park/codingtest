@@ -1,4 +1,5 @@
 import heapq
+# https://school.programmers.co.kr/learn/courses/30/lessons/42626
 
 def solution(scoville, K):
     # heapq.heappush(list, "element") # 오름차순

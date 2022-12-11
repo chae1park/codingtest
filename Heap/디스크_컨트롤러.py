@@ -1,3 +1,6 @@
+
+# https://school.programmers.co.kr/learn/courses/30/lessons/42627
+
 '''
 처음 나의 풀이법! 현재 상태에서 가능한 리스트에 있는 모든 원소들을 선택했을 때 소요 시간 다 계산해서 그 중 짧은것들을 선택하도록 함
  -> 풀리지 않았다.

@@ -1,3 +1,6 @@
+
+# https://school.programmers.co.kr/learn/courses/30/lessons/42746
+
 '''
 *idea*
 원소는 1000 이하의 수로 구성되어 있으므로 최대 세자리 수다.
