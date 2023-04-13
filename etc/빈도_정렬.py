@@ -8,13 +8,13 @@
 # nums = [1, 3, 3, 3, 2, 2, 2, 1, 1]
 # output = '1 1 1 3 3 3 2 2 2'
 # input3
-# n, c = 5, 2
-# nums = [2, 1, 2, 1, 2]
-# output = '2 2 2 1 1'
+n, c = 5, 2
+nums = [2, 1, 2, 1, 2]
+output = '2 2 2 1 1'
 
 # 입력부분
-n, c = map(int, input().split())
-nums = list(map(int, input().split()))
+# n, c = map(int, input().split())
+# nums = list(map(int, input().split()))
 
 dicts = {}
 for num in nums:
@@ -29,4 +29,3 @@ for ans, freq in info:
     answer += (str(ans) + ' ') * freq
 answer = answer.strip()
 print(answer)
-# print(output, 'expedted output')
