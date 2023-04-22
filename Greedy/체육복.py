@@ -37,4 +37,4 @@ def solution(n, lost, reserve):
     # 3. 체육복을 빌려준 사람 수 = 체육복 다행히 빌린 사람수 를 참석가능한 사람 수에 추가해줌
     answer += len(occupied)
     
-    return answe
+    return answer
